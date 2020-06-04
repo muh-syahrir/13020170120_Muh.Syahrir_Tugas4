@@ -1,0 +1,478 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string-array name="judul">
+        <item>Kingdom S1</item>
+        <item>Mr. Robot</item>
+        <item>The Flash</item>
+        <item>Money Heist S1</item>
+        <item>Smallville</item>
+        <item>The Big Bang Theory</item>
+        <item>Stranger Things</item>
+        <item>Strangers From Hell</item>
+        <item>13 Reasons Why</item>
+        <item>Sex Education</item>
+        <item>Orange Is the New Black</item>
+        <item>Adventure Time</item>
+        <item>Rick and Morty</item>
+        <item>The Simpsons</item>
+        <item>Family Guy</item>
+        <item>Sesame Street</item>
+        <item>South Park</item>
+        <item>BoJack Horseman</item>
+        <item>Futurama</item>
+        <item>JoJo Bizarre Adventure</item>
+
+    </string-array>
+
+    <array name="photo">
+        <item>@drawable/kingdom</item>
+        <item>@drawable/mrrobot</item>
+        <item>@drawable/theflash</item>
+        <item>@drawable/moneyheist</item>
+        <item>@drawable/smallville</item>
+        <item>@drawable/thebigbangtheory</item>
+        <item>@drawable/strangerthings</item>
+        <item>@drawable/strangerfromhell</item>
+        <item>@drawable/reasonwhy</item>
+        <item>@drawable/sexeducation</item>
+        <item>@drawable/orangeisthenewblack</item>
+        <item>@drawable/adventuretime</item>
+        <item>@drawable/rickandmorthy</item>
+        <item>@drawable/thesimpson</item>
+        <item>@drawable/familyguy</item>
+        <item>@drawable/sesamestreet</item>
+        <item>@drawable/southpark</item>
+        <item>@drawable/borjackhorseman</item>
+        <item>@drawable/futurama</item>
+        <item>@drawable/jojobizarre</item>
+
+    </array>
+
+    <string-array name="desc">
+        <item>In this zombie thriller set in Korea medieval Joseon dynasty, a crown prince is sent on a suicide mission to investigate a mysterious outbreak.</item>
+        <item>A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta human" who was created in the wake of the accelerator explosion and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it wont be long before the world learns what Barry Allen has become The Flash.</item>
+        <item>To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.</item>
+        <item>The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.</item>
+        <item>The Big Bang Theory is centered on five characters living in Pasadena, California: roommates Leonard Hofstadter and Sheldon Cooper; Penny, a waitress and aspiring actress who lives across the hall; and Leonard and Sheldons equally geeky and socially awkward friends and co-workers, mechanical engineer Howard Wolowitz and astrophysicist Raj Koothrappali. The geekiness and intellect of the four guys is contrasted for comic effect with Pennys social skills and common sense.</item>
+        <item>When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.</item>
+        <item>Yoon Jong-Woo is a man in his 20s. He has lived in a small town for all of his life, but he gets a job at a small office in Seoul. Yoon Jong-Woo moves out to Seoul and stays at a cheap apartment which shares its kitchen and bathroom with other residents. He doesnt like staying at the apartment and he doesnt like the other residents who seem weird and suspicious.</item>
+        <item>After a teenage girls perplexing suicide, a classmate receives a series of tapes that unravel the mystery of her tragic choice</item>
+        <item>Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.</item>
+        <item>A crime she committed in her youthful past sends Piper Chapman to a womens prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.</item>
+        <item>Hook up with Finn and Jake as they travel the Land of Ooo searching for adventure. But remember, adventure isn’t always easy. Sometimes you’ve got to battle fire gnomes that torture old ladies, save a smelly hot dog princess from the Ice King, and thaw out a bunch of frozen businessmen. What the cabbage</item>
+        <item>Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Mortys already unstable family life, these events cause Morty much distress at home and school.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>Sick, twisted, politically incorrect and Freakin Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.</item>
+        <item>On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.</item>
+        <item>Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.</item>
+        <item>Meet the most beloved sitcom horse of the 90s - 20 years later. BoJack Horseman was the star of the hit TV show "Horsin Around," but today he washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.</item>
+        <item>The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.</item>
+        <item>Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Action, Horror, Thriller</item>
+        <item>Crime, Drama</item>
+        <item>Drama, Sci-Fi, Fantasy</item>
+        <item>Crime, Drama</item>
+        <item>Action, Adventure, Sci-Fi, Mystery, Drama</item>
+        <item>Comedy</item>
+        <item>Mystery, Sci-Fi, Fantasy, Drama</item>
+        <item>Mystery</item>
+        <item>Drama, Mystery</item>
+        <item>Comedy, Drama</item>
+        <item>Comedy, Drama</item>
+        <item>Fantasy, Animation, Comedy</item>
+        <item>Animation, Comedy, Sci-Fi, Fantasy, Action, Adventure</item>
+        <item>Animation, Comedy</item>
+        <item>Animation, Comedy</item>
+        <item>Animation, Comedy, Family</item>
+        <item>Comedy, Animation</item>
+        <item>Drama, Comedy, Animation</item>
+        <item>Animation, Comedy</item>
+        <item>Action, Adventure, Animation, Fantasy, Horror</item>
+    </string-array>
+
+    <string-array name="durasi">
+        <item>45m</item>
+        <item>43m</item>
+        <item>44m</item>
+        <item>1h 10m</item>
+        <item>43m</item>
+        <item>22m</item>
+        <item>50m</item>
+        <item>1h</item>
+        <item>57m</item>
+        <item>45m</item>
+        <item>1h</item>
+        <item>11m</item>
+        <item>22m</item>
+        <item>22m</item>
+        <item>22m</item>
+        <item>54m</item>
+        <item>22m</item>
+        <item>25</item>
+        <item>22m</item>
+        <item>24m</item>
+    </string-array>
+
+    <string-array name="sutradara">
+        <item>Kim Sung Hoon</item>
+        <item>Sam Esmail</item>
+        <item>Greg Berlanti, Geoff Johns, Andrew Kreisberg</item>
+        <item>Álex Pina</item>
+        <item>Alfred Gough, Miles Millar</item>
+        <item>Chuck Lorre, Bill Prady</item>
+        <item>Matt Duffer, Ross Duffer</item>
+        <item>Lee Chang-hee</item>
+        <item>Brian Yorkey</item>
+        <item>Laurie Nunn</item>
+        <item>Jenji Kohan</item>
+        <item>Pendleton Ward</item>
+        <item>Dan Harmon, Justin Roiland</item>
+        <item>Matt Groening</item>
+        <item>Seth MacFarlane</item>
+        <item>Joan Ganz Cooney, Lloyd Morrisett</item>
+        <item>Matt Stone, Trey Parker</item>
+        <item>Raphael Bob-Waksberg</item>
+        <item>Matt Groening</item>
+        <item>Hirohiko Araki</item>
+
+    </string-array>
+
+    <string-array name="tahun">
+        <item>2019</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2017</item>
+        <item>2001</item>
+        <item>2007</item>
+        <item>2016</item>
+        <item>2019</item>
+        <item>2017</item>
+        <item>2019</item>
+        <item>2013</item>
+        <item>2010</item>
+        <item>2013</item>
+        <item>1989</item>
+        <item>1999</item>
+        <item>1969</item>
+        <item>1997</item>
+        <item>2014</item>
+        <item>1999</item>
+        <item>2012</item>
+    </string-array>
+
+    <string-array name="kingdom">
+        <item>Bae Doo-na</item>
+        <item>Ju Ji-hoon</item>
+        <item>Kim Sung-kyu</item>
+        <item>Kim Sang-ho</item>
+        <item>Ryu Seung-ryong</item>
+    </string-array>
+
+    <array name="castkingdom">
+        <item>@drawable/baedoona</item>
+        <item>@drawable/jujihoon</item>
+        <item>@drawable/kimsungkyu</item>
+        <item>@drawable/kimsangho</item>
+        <item>@drawable/ryuseungryong</item>
+    </array>
+
+    <string-array name="mrrobot">
+        <item>Rami Malek</item>
+        <item>Christian Slater</item>
+        <item>Carly Chaikin</item>
+        <item>Martin Wallström</item>
+        <item>Grace Gummer</item>
+    </string-array>
+
+    <array name="castmrrobot">
+        <item>@drawable/ramimalek</item>
+        <item>@drawable/cristianslater</item>
+        <item>@drawable/carlychaikin</item>
+        <item>@drawable/martinwall</item>
+        <item>@drawable/gracegummer</item>
+    </array>
+
+    <string-array name="theflash">
+        <item>Grant Gustin</item>
+        <item>Candice Patton</item>
+        <item>Carlos Valdes</item>
+        <item>Danielle Panabaker</item>
+        <item>Tom Cavanagh</item>
+        <item>Jesse L. Martin</item>
+
+    </string-array>
+
+    <array name="casttheflash">
+        <item>@drawable/grantgustin</item>
+        <item>@drawable/candicepatton</item>
+        <item>@drawable/carlosvaldes</item>
+        <item>@drawable/daniellepanabaker</item>
+        <item>@drawable/tomcavanagh</item>
+        <item>@drawable/jesselmartin</item>
+    </array>
+
+    <string-array name="moneyheist">
+        <item>Úrsula Corberó</item>
+        <item>Álvaro Morte</item>
+        <item>Itziar Ituño</item>
+        <item>Pedro Alonso</item>
+        <item>Alba Flores</item>
+
+    </string-array>
+
+    <array name="castmoneyheist">
+        <item>@drawable/ursulacorbero</item>
+        <item>@drawable/alvaromorte</item>
+        <item>@drawable/itziarituno</item>
+        <item>@drawable/pedroalonso</item>
+        <item>@drawable/albaflores</item>
+    </array>
+
+    <string-array name="smallville">
+        <item>Tom Welling</item>
+        <item>Allison Mack</item>
+        <item>Kristin Kreuk</item>
+        <item>Michael Rosenbaum</item>
+        <item>John Glover</item>
+
+    </string-array>
+
+    <array name="castsmallville">
+        <item>@drawable/tomwelling</item>
+        <item>@drawable/allisonmack</item>
+        <item>@drawable/kristinkreuk</item>
+        <item>@drawable/michaelrosenbaum</item>
+        <item>@drawable/johnglover</item>
+    </array>
+
+    <string-array name="thebigbangtheory">
+        <item>Jim Parsons</item>
+        <item>Johnny Galecki</item>
+        <item>Kaley Cuoco</item>
+        <item>Simon Helberg</item>
+        <item>Kunal Nayyar</item>
+
+    </string-array>
+
+    <array name="castthebigbangtheory">
+        <item>@drawable/jimparsons</item>
+        <item>@drawable/johnnygalecki</item>
+        <item>@drawable/kaleycuoco</item>
+        <item>@drawable/simonhelberg</item>
+        <item>@drawable/kunalnayyar</item>
+    </array>
+
+    <string-array name="strangerthing">
+        <item>Winona Ryder</item>
+        <item>David Harbour</item>
+        <item>Finn Wolfhard</item>
+        <item>Gaten Matarazzo</item>
+        <item>Caleb McLaughlin</item>
+        <item>Millie Bobby Brown</item>
+
+    </string-array>
+
+    <array name="caststrangerthing">
+        <item>@drawable/winonaryder</item>
+        <item>@drawable/davidharbour</item>
+        <item>@drawable/finnwolfhard</item>
+        <item>@drawable/gatenmatarazzo</item>
+        <item>@drawable/calebmclaughlin</item>
+        <item>@drawable/milliebobby</item>
+    </array>
+
+    <string-array name="strangerfromhell">
+        <item>Yim Si-wan</item>
+        <item>Lee Dong-wook</item>
+        <item>Kim Ji-Eun</item>
+        <item>Ahn Eun-jin</item>
+
+    </string-array>
+
+    <array name="caststrangerfromhell">
+        <item>@drawable/yimsiwan</item>
+        <item>@drawable/leedongwook</item>
+        <item>@drawable/kimjieun</item>
+        <item>@drawable/ahneunjin</item>
+    </array>
+
+    <string-array name="reasonwhy">
+        <item>Dylan Minnette</item>
+        <item>Christian Navarro</item>
+        <item>Alisha Boe</item>
+        <item>Brandon Flynn</item>
+
+    </string-array>
+
+    <array name="cast13reasonwhy">
+        <item>@drawable/dylanminnette</item>
+        <item>@drawable/christiannavarro</item>
+        <item>@drawable/alishaboe</item>
+        <item>@drawable/brandonflyn</item>
+    </array>
+
+    <string-array name="sexeducation">
+        <item>Asa Butterfield</item>
+        <item>Emma Mackey</item>
+        <item>Ncuti Gatwa</item>
+        <item>Gillian Anderson</item>
+    </string-array>
+
+    <array name="castsexeducation">
+        <item>@drawable/asabutterfield</item>
+        <item>@drawable/emmamackey</item>
+        <item>@drawable/ncutigatwa</item>
+        <item>@drawable/gilliananderson</item>
+    </array>
+
+    <string-array name="orangeisthenewblack">
+        <item>Taylor Schilling</item>
+        <item>Laura Prepon</item>
+        <item>Danielle Brooks</item>
+        <item>Kate Mulgrew</item>
+    </string-array>
+
+    <array name="castorangeisthenewblack">
+        <item>@drawable/taylorschilling</item>
+        <item>@drawable/lauraprepon</item>
+        <item>@drawable/daniellebrooks</item>
+        <item>@drawable/katemulgrew</item>
+    </array>
+
+    <string-array name="adventuretime">
+        <item>Jeremy Shada</item>
+        <item>John DiMaggio</item>
+        <item>Tom Kenny</item>
+        <item>Olivia Olson</item>
+        <item>Dee Bradley Baker</item>
+        <item>Hynden Walch</item>
+
+    </string-array>
+
+    <array name="castadventuretime">
+        <item>@drawable/jeremyshada</item>
+        <item>@drawable/johndimaggio</item>
+        <item>@drawable/tomkenny</item>
+        <item>@drawable/oliviaolson</item>
+        <item>@drawable/deebradleybaker</item>
+        <item>@drawable/hyndenwalch</item>
+    </array>
+
+    <string-array name="rickandmorty">
+        <item>Justin Roiland</item>
+        <item>Chris Parnell</item>
+        <item>Spencer Grammer</item>
+        <item>Sarah Chalke</item>
+
+    </string-array>
+
+    <array name="castrickandmorty">
+        <item>@drawable/justinroiland</item>
+        <item>@drawable/chrisparnell</item>
+        <item>@drawable/spencergrammer</item>
+        <item>@drawable/sarahchalke</item>
+    </array>
+
+    <string-array name="thesimpson">
+        <item>Dan Castellaneta</item>
+        <item>Julie Kavner</item>
+        <item>Nancy Cartwright</item>
+        <item>Hank Azaria</item>
+
+    </string-array>
+
+    <array name="castthesimpson">
+        <item>@drawable/dancastellaneta</item>
+        <item>@drawable/juliekavner</item>
+        <item>@drawable/nancycartwright</item>
+        <item>@drawable/hankazaria</item>
+    </array>
+
+    <string-array name="familyguy">
+        <item>Seth MacFarlane</item>
+        <item>Alex Borstein</item>
+        <item>Seth Green</item>
+        <item>Mila Kunis</item>
+
+    </string-array>
+
+    <array name="castfamilyguy">
+        <item>@drawable/sethmacfarlane</item>
+        <item>@drawable/alexborstein</item>
+        <item>@drawable/sethgreen</item>
+        <item>@drawable/milakunis</item>
+    </array>
+
+    <string-array name="sesamestreet">
+        <item>Frank Oz</item>
+
+    </string-array>
+
+    <array name="castsesamestreet">
+        <item>@drawable/frankoz</item>
+    </array>
+
+    <string-array name="southpark">
+        <item>Trey Parker</item>
+        <item>Matt Stone</item>
+        <item>April Stewart</item>
+
+    </string-array>
+
+    <array name="castsouthpark">
+        <item>@drawable/treyparker</item>
+        <item>@drawable/mattstone</item>
+        <item>@drawable/aprilstewart</item>
+    </array>
+
+    <string-array name="bojackhorseman">
+        <item>Will Arnett</item>
+        <item>Aaron Paul</item>
+        <item>Alison Brie</item>
+        <item>Amy Sedaris</item>
+        <item>Paul F. Tompkins</item>
+
+    </string-array>
+
+    <array name="castbojackhorseman">
+        <item>@drawable/willarnett</item>
+        <item>@drawable/aaronpaul</item>
+        <item>@drawable/alisonbrie</item>
+        <item>@drawable/amysedaris</item>
+        <item>@drawable/paulftompkins</item>
+    </array>
+
+    <string-array name="futurama">
+        <item>Billy West</item>
+        <item>John DiMaggio</item>
+        <item>Katey Sagal</item>
+        <item>Phil LaMarr</item>
+
+    </string-array>
+
+    <array name="castfuturama">
+        <item>@drawable/billywest</item>
+        <item>@drawable/johndimaggio</item>
+        <item>@drawable/kateysagal</item>
+        <item>@drawable/phillamarr</item>
+    </array>
+
+    <string-array name="jojobizarre">
+        <item>Daisuke Ono</item>
+        <item>Takehito Koyasu</item>
+        <item>Unsho Ishizuka</item>
+        <item>Fuminori Komatsu</item>
+    </string-array>
+
+    <array name="castjojobizarre">
+        <item>@drawable/daisukeono</item>
+        <item>@drawable/takehitokoyasu</item>
+        <item>@drawable/unshoishizuka</item>
+        <item>@drawable/fuminorikomatsu</item>
+    </array>
+</resources>
